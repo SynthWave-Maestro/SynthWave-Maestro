@@ -1,3 +1,6 @@
 data/
 FluidR3_GM/
 FluidR3_GM.zip
+*.midi
+*.mid
+*.wav
